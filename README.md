@@ -1,4 +1,4 @@
-e# 40%-ish Split Keyboard
+# 40%-ish Split Keyboard
 
 This custom split keyboard runs [RMK](https://rmk.rs), a modern and powerful firmware that supports flexible layouts and advanced features. It also has full support for **Vial**, enabling real-time key remapping and customization without needing to recompile firmware.
 
