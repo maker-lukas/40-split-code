@@ -1,4 +1,4 @@
-# 40%-ish Split Keyboard
+e# 40%-ish Split Keyboard
 
 This custom split keyboard runs [RMK](https://rmk.rs), a modern and powerful firmware that supports flexible layouts and advanced features. It also has full support for **Vial**, enabling real-time key remapping and customization without needing to recompile firmware.
 
@@ -33,5 +33,3 @@ This is what it looks like inside the Vial app once your board is recognized:
 This build is based on the open-source [40%-ish Split Keyboard by capitaoananas](https://github.com/capitaoananas/40-ish-split-keyboard). It’s a compact layout with just enough keys for productivity while keeping your desk clean and your fingers closer to home row.
 
 ---
-
-Let me know if you want help with a build guide, BOM, or more technical breakdowns.
