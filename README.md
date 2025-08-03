@@ -1,19 +1,28 @@
-# 40%ish split keyboard
-i use [RMK](https://rmk.rs) as the firmware for this keyboard! with vial support
+40%-ish Split Keyboard
 
-## Features
-- RMK firmware
-- Vial support for real time key maping
-- split PIO
-- 4 layers
-- Runs on rp2040
+This custom split keyboard runs RMK, a modern and powerful firmware that supports flexible layouts and advanced features. It also has full support for Vial, enabling real-time key remapping and customization without needing to recompile firmware.
+Features
 
-keyboard.toml             |  vial.json
-:-------------------------:|:-------------------------:
-![code](https://hc-cdn.hel1.your-objectstorage.com/s/v3/98f504a70032b6d848b211c3fafb91cf4f7fc346_image.png)  |  ![vial](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72a8afddf7274b5197b4d6f9f48dc510f2aff4da_image.png)
+    RMK Firmware – Lightweight and modular firmware designed for custom keyboards
 
----
+    Vial Support – Modify keymaps on the fly through a user-friendly GUI
 
-vial             
-:-------------------------:
-![vial](https://hc-cdn.hel1.your-objectstorage.com/s/v3/665ba123b927464b97aa57cfbc3024b7c9c45a49_image.png)  |
+    Split PIO Support – Uses RP2040's Programmable I/O to handle split communication cleanly
+
+    4 Layers – Plenty of flexibility for productivity, gaming, or layered macros
+
+    Powered by RP2040 – Fast dual-core microcontroller with ample I/O and memory
+
+Configuration Files
+
+These config files define the keyboard layout and Vial settings:
+keyboard.toml	vial.json
+keyboard.toml	vial.json
+Vial Interface Example
+
+This is what it looks like inside the Vial app once your board is recognized:
+
+vial
+Keyboard Hardware
+
+This build is based on the open-source 40%-ish Split Keyboard by capitaoananas. It’s a compact layout with just enough keys for productivity while keeping your desk clean and your fingers closer to home row.
