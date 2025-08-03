@@ -8,6 +8,12 @@ i use [RMK](https://rmk.rs) as the firmware for this keyboard! with vial support
 - 4 layers
 - Runs on rp2040
 
-Code             |  Code
+keyboard.toml             |  vial.json
 :-------------------------:|:-------------------------:
-![code]()  |  ![code]()
+![code](https://hc-cdn.hel1.your-objectstorage.com/s/v3/98f504a70032b6d848b211c3fafb91cf4f7fc346_image.png)  |  ![vial](https://hc-cdn.hel1.your-objectstorage.com/s/v3/72a8afddf7274b5197b4d6f9f48dc510f2aff4da_image.png)
+
+---
+
+keyboard.toml             
+:-------------------------:
+![code](https://hc-cdn.hel1.your-objectstorage.com/s/v3/98f504a70032b6d848b211c3fafb91cf4f7fc346_image.png)  |
