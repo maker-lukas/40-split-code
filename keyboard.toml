@@ -9,7 +9,7 @@ chip = "rp2040"
 [layout]
 rows = 4
 cols = 10
-layers = 4
+layers = 10
 keymap = [
     [
         ["A", "B", "C", "P", "Y", "F", "G", "R", "C", "L"],
