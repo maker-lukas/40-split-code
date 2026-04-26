@@ -35,8 +35,8 @@ keys = """
 enable_flow_tap = true
 unilateral_tap = true
 permissive_hold = true
-prior_idle_time = "120ms"
-hold_timeout = "250ms"
+prior_idle_time = "180ms"
+hold_timeout = "200ms"
 
 [split]
 connection = "serial"
